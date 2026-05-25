@@ -1,0 +1,11 @@
+C:\Users\Dell\Desktop\Selecione\Selecione\bin\Debug\Selecione.exe.config
+C:\Users\Dell\Desktop\Selecione\Selecione\bin\Debug\Selecione.exe
+C:\Users\Dell\Desktop\Selecione\Selecione\bin\Debug\Selecione.pdb
+C:\Users\Dell\Desktop\Selecione\Selecione\obj\Debug\Selecione.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\Selecione\Selecione\obj\Debug\Selecione.Form1.resources
+C:\Users\Dell\Desktop\Selecione\Selecione\obj\Debug\Selecione.Properties.Resources.resources
+C:\Users\Dell\Desktop\Selecione\Selecione\obj\Debug\Selecione.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\Selecione\Selecione\obj\Debug\Selecione.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\Selecione\Selecione\obj\Debug\Selecione.exe
+C:\Users\Dell\Desktop\Selecione\Selecione\obj\Debug\Selecione.pdb
+C:\Users\Dell\Desktop\Selecione\Selecione\obj\Debug\Selecione.exe.config

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MediaNota", "MediaNota.csproj", "{A56EE889-A101-4AC4-A8E1-0AF87E751207}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A56EE889-A101-4AC4-A8E1-0AF87E751207}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56EE889-A101-4AC4-A8E1-0AF87E751207}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56EE889-A101-4AC4-A8E1-0AF87E751207}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56EE889-A101-4AC4-A8E1-0AF87E751207}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0636789B-C01C-45A4-9910-43198AA19546}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,13 @@
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\bin\Debug\ExibirImagem.exe.config
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\bin\Debug\ExibirImagem.exe
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\bin\Debug\ExibirImagem.pdb
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\obj\Debug\ExibirImagem.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\obj\Debug\ExibirImagem.Form1.resources
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\obj\Debug\ExibirImagem.Properties.Resources.resources
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\obj\Debug\ExibirImagem.csproj.GenerateResource.cache
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\obj\Debug\ExibirImagem.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\obj\Debug\ExibirImagem.exe
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\obj\Debug\ExibirImagem.pdb
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\bin\Debug\imagens\Logo_C_sharp.png
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\obj\Debug\ExibirImagem.exe.config
+C:\Users\otavi\OneDrive\Desktop\ExibirImagem\ExibirImagem\bin\Debug\imagens\logo2.png

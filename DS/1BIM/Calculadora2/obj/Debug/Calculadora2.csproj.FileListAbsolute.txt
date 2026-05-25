@@ -1,0 +1,10 @@
+C:\Users\EtecVAV\Desktop\Calculadora2\bin\Debug\Calculadora2.exe.config
+C:\Users\EtecVAV\Desktop\Calculadora2\bin\Debug\Calculadora2.exe
+C:\Users\EtecVAV\Desktop\Calculadora2\bin\Debug\Calculadora2.pdb
+C:\Users\EtecVAV\Desktop\Calculadora2\obj\Debug\Calculadora2.csproj.AssemblyReference.cache
+C:\Users\EtecVAV\Desktop\Calculadora2\obj\Debug\Calculadora2.Form1.resources
+C:\Users\EtecVAV\Desktop\Calculadora2\obj\Debug\Calculadora2.Properties.Resources.resources
+C:\Users\EtecVAV\Desktop\Calculadora2\obj\Debug\Calculadora2.csproj.GenerateResource.cache
+C:\Users\EtecVAV\Desktop\Calculadora2\obj\Debug\Calculadora2.csproj.CoreCompileInputs.cache
+C:\Users\EtecVAV\Desktop\Calculadora2\obj\Debug\Calculadora2.exe
+C:\Users\EtecVAV\Desktop\Calculadora2\obj\Debug\Calculadora2.pdb

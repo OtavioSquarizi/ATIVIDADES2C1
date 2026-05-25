@@ -1,0 +1,10 @@
+C:\Users\EtecVAV\Desktop\MediaNota\bin\Debug\MediaNota.exe.config
+C:\Users\EtecVAV\Desktop\MediaNota\bin\Debug\MediaNota.exe
+C:\Users\EtecVAV\Desktop\MediaNota\bin\Debug\MediaNota.pdb
+C:\Users\EtecVAV\Desktop\MediaNota\obj\Debug\MediaNota.csproj.AssemblyReference.cache
+C:\Users\EtecVAV\Desktop\MediaNota\obj\Debug\MediaNota.Form1.resources
+C:\Users\EtecVAV\Desktop\MediaNota\obj\Debug\MediaNota.Properties.Resources.resources
+C:\Users\EtecVAV\Desktop\MediaNota\obj\Debug\MediaNota.csproj.GenerateResource.cache
+C:\Users\EtecVAV\Desktop\MediaNota\obj\Debug\MediaNota.csproj.CoreCompileInputs.cache
+C:\Users\EtecVAV\Desktop\MediaNota\obj\Debug\MediaNota.exe
+C:\Users\EtecVAV\Desktop\MediaNota\obj\Debug\MediaNota.pdb

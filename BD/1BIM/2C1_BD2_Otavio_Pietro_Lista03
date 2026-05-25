@@ -1,0 +1,51 @@
+-- Lista sobre operadores
+ 
+/* Alunos: Otávio Tarallo Squarizi e Pietro Barros dos Santos */
+
+-- 01) Mostre o nome e o país dos clientes
+
+       select nome, pais from clientes
+
+-- 02) Mostre o nome e salário de todos os funcionarios que ganham acima de 7000
+
+     select nome, salario from funcionarios
+     where salario > 7000 
+
+-- 03) Mostre o nome e salário de todos os funcionarios que ganham acima de 8000 e sejam dos EUA
+   
+   select salario, nome, salario from funcionarios
+   where salario > 8000 and pais= 'EUA'
+
+-- 04) Exiba nome e salario dos funcionários e crie uma nova coluna somando 10% no salário
+	
+	select nome, salario, salario*1.1 as novosalario  
+	from Funcionarios
+
+-- 05) Aumente em 5% todos os preços dos produtos
+
+	update Produtos set Preco = Preco * 1.05
+
+-- 06) Mostre o nome, salário e país somente dos funcionários que tenham salário entre 10000 e 11000 e sejam do Reino Unido
+
+	select nome, salario, pais from funcionarios
+	where salario between 10000 and 11000 and pais = 'Reino Unido'
+
+-- 07) Exiba nome, cidade dos clientes que não são dos EUA
+
+	select nome, cidade from clientes 
+    where pais != 'EUA'
+
+-- 08) Exiba nome, cidade e contato dos clientes que são do Brasil
+
+	 select nome, cidade, contato from clientes
+     where pais = 'Brasil'
+
+-- 09) Exiba os dados dos produtos que tenham preço acima de 10
+
+	select * from produtos
+    where preco > 10
+  
+-- 10) Exiba todos os produtos cujos preços estejam entre 10 e 15
+
+	select * from produtos
+    where preco between 10 and 15
