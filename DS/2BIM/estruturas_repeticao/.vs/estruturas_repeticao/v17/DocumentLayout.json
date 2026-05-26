@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|c:\\users\\otavi\\onedrive\\desktop\\estruturas_repeticao\\estruturas_repeticao\\formintervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formintervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\formintervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formintervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|c:\\users\\otavi\\onedrive\\desktop\\estruturas_repeticao\\estruturas_repeticao\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formfibonacci.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormFibonacci.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormFibonacci.cs",
+              "RelativeDocumentMoniker": "estruturas_repeticao\\FormFibonacci.cs",
+              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormFibonacci.cs [Design]",
+              "RelativeToolTip": "estruturas_repeticao\\FormFibonacci.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:17:46.541Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormIntervalo.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormIntervalo.cs",
+              "RelativeDocumentMoniker": "estruturas_repeticao\\FormIntervalo.cs",
+              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormIntervalo.cs [Design]",
+              "RelativeToolTip": "estruturas_repeticao\\FormIntervalo.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:19:40.488Z",
+              "IsPinned": true,
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormIntervalo.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormIntervalo.cs",
+              "RelativeDocumentMoniker": "estruturas_repeticao\\FormIntervalo.cs",
+              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormIntervalo.cs",
+              "RelativeToolTip": "estruturas_repeticao\\FormIntervalo.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwDYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:43:42.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormFibonacci.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormFibonacci.cs",
+              "RelativeDocumentMoniker": "estruturas_repeticao\\FormFibonacci.cs",
+              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormFibonacci.cs",
+              "RelativeToolTip": "estruturas_repeticao\\FormFibonacci.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-26T01:38:06.371Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

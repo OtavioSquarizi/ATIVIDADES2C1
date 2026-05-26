@@ -1,0 +1,14 @@
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\bin\Debug\estruturas_repeticao.exe.config
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\bin\Debug\estruturas_repeticao.exe
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\bin\Debug\estruturas_repeticao.pdb
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.Form1.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormFibonacci.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormLimite.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.Properties.Resources.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.csproj.GenerateResource.cache
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.exe
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.pdb
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.exe.config
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormIntervalo.resources
