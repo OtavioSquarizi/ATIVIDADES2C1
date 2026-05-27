@@ -16,5 +16,38 @@ namespace estruturas_repeticao
         {
             InitializeComponent();
         }
+
+        private void FormLimite_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            listBox1.Items.Clear();
+
+            int limite;
+
+            limite = Convert.ToInt32(textBox1.Text);
+
+            for (int i = 1; i <= limite; i++)
+            {
+                listBox1.Items.Add(i);
+            }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            int posicao;
+
+            posicao = Convert.ToInt32(textBox2.Text);
+
+            MessageBox.Show(listBox1.Items[posicao].ToString());
+        }
+
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

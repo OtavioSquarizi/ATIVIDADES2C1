@@ -36,23 +36,22 @@ namespace estruturas_repeticao
         {
             listBox1.Items.Clear();
 
-            int limite;
+            int inicio;
+            int fim;
+            int incremento;
 
-            limite = Convert.ToInt32(textBox1.Text);
+            inicio = Convert.ToInt32(textBox1.Text);
+            fim = Convert.ToInt32(textBox2.Text);
+            incremento = Convert.ToInt32(textBox3.Text);
 
-            for (int i = 1; i <= limite; i++)
+            for (int i = inicio; i <= fim; i = i + incremento)
             {
                 listBox1.Items.Add(i);
             }
         }
-
-        private void button2_Click(object sender, EventArgs e)
+        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            int posicao;
 
-            posicao = Convert.ToInt32(textBox2.Text);
-
-            MessageBox.Show(listBox1.Items[posicao].ToString());
         }
     }
 }

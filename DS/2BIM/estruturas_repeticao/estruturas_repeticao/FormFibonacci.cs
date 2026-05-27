@@ -28,20 +28,25 @@ namespace estruturas_repeticao
 
             int n1 = 0;
             int n2 = 1;
-            int proximo;
+            int prox;
 
             listBox1.Items.Add(n1);
             listBox1.Items.Add(n2);
 
             for (int i = 0; i < 10; i++)
             {
-                proximo = n1 + n2;
+                prox = n1 + n2;
 
-                listBox1.Items.Add(proximo);
+                listBox1.Items.Add(prox);
 
                 n1 = n2;
-                n2 = proximo;
+                n2 = prox;
             }
+        }
+
+        private void FormFibonacci_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

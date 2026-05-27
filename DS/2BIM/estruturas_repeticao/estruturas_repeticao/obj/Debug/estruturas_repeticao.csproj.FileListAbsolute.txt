@@ -12,3 +12,5 @@ C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\De
 C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.pdb
 C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.exe.config
 C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormIntervalo.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormTabuada.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormFatorial.resources

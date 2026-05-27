@@ -17,39 +17,50 @@ namespace estruturas_repeticao
             InitializeComponent();
         }
 
-        private void button6_Click(object sender, EventArgs e)
+        private void label1_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("Dupla: Otávio Tarallo Squarizi e Pietro Barros dos Santos 2C1");
+
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void fibonacciToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form formTabuada = new FormTabuada();
             formTabuada.ShowDialog();
+
         }
 
-        private void button4_Click(object sender, EventArgs e)
+        private void fatorialToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form formFatorial = new FormFatorial();
             formFatorial.ShowDialog();
         }
 
-        private void button3_Click(object sender, EventArgs e)
+        private void fibonacciToolStripMenuItem1_Click(object sender, EventArgs e)
         {
-            Form formFibonacci = new FormFibonacci();
-            formFibonacci.ShowDialog();
+            Form formFibonacci1 = new FormFibonacci();
+            formFibonacci1.ShowDialog();
         }
 
-        private void button5_Click(object sender, EventArgs e)
+        private void limiteToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form formLimite = new FormLimite();
             formLimite.ShowDialog();
         }
 
-        private void button2_Click(object sender, EventArgs e)
+        private void intervaloToolStripMenuItem_Click(object sender, EventArgs e)
         {
             Form formIntervalo = new FormIntervalo();
             formIntervalo.ShowDialog();
+        }
+
+        private void sobreToolStripMenuItem1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("DUPLA: Otávio Tarallo Squarizi e Pietro Barros dos Santos 2C1");
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

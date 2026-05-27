@@ -87,6 +87,9 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormFatorial.resx">
+      <DependentUpon>FormFatorial.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormFibonacci.resx">
       <DependentUpon>FormFibonacci.cs</DependentUpon>
     </EmbeddedResource>
@@ -95,6 +98,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="FormLimite.resx">
       <DependentUpon>FormLimite.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormTabuada.resx">
+      <DependentUpon>FormTabuada.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
