@@ -52,6 +52,12 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormEmail.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEmail.Designer.cs">
+      <DependentUpon>FormEmail.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormFatorial.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -76,16 +82,31 @@
     <Compile Include="FormLimite.Designer.cs">
       <DependentUpon>FormLimite.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormListas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormListas.Designer.cs">
+      <DependentUpon>FormListas.cs</DependentUpon>
+    </Compile>
     <Compile Include="FormTabuada.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FormTabuada.Designer.cs">
       <DependentUpon>FormTabuada.cs</DependentUpon>
     </Compile>
+    <Compile Include="FormVertical.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormVertical.Designer.cs">
+      <DependentUpon>FormVertical.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEmail.resx">
+      <DependentUpon>FormEmail.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="FormFatorial.resx">
       <DependentUpon>FormFatorial.cs</DependentUpon>
@@ -99,8 +120,14 @@
     <EmbeddedResource Include="FormLimite.resx">
       <DependentUpon>FormLimite.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="FormListas.resx">
+      <DependentUpon>FormListas.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FormTabuada.resx">
       <DependentUpon>FormTabuada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormVertical.resx">
+      <DependentUpon>FormVertical.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

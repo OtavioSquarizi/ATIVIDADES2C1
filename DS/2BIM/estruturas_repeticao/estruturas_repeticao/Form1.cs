@@ -7,6 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using static System.Windows.Forms.VisualStyles.VisualStyleElement.ListView;
 
 namespace estruturas_repeticao
 {
@@ -61,6 +62,24 @@ namespace estruturas_repeticao
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void emailToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form formEmail = new FormEmail();
+            formEmail.ShowDialog();
+        }
+
+        private void textoVerticalToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form FormVertical = new FormVertical();
+            FormVertical.ShowDialog();
+        }
+
+        private void manipularListasToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form FormListas = new FormListas();
+            FormListas.ShowDialog();
         }
     }
 }

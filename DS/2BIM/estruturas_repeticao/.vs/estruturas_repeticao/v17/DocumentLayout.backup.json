@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|c:\\users\\otavi\\onedrive\\desktop\\estruturas_repeticao\\estruturas_repeticao\\formintervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formintervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|c:\\users\\otavi\\onedrive\\desktop\\estruturas_repeticao\\estruturas_repeticao\\formvertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formvertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|c:\\users\\otavi\\onedrive\\desktop\\estruturas_repeticao\\estruturas_repeticao\\formintervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formintervalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|c:\\users\\otavi\\onedrive\\desktop\\estruturas_repeticao\\estruturas_repeticao\\formvertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formvertical.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|c:\\users\\otavi\\onedrive\\desktop\\estruturas_repeticao\\estruturas_repeticao\\formlistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FF83A140-2341-4EA6-9000-E5C9B2FD4DF1}|estruturas_repeticao\\estruturas_repeticao.csproj|solutionrelative:estruturas_repeticao\\formlistas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,26 +27,38 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormIntervalo.cs",
-              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormIntervalo.cs",
-              "RelativeDocumentMoniker": "estruturas_repeticao\\FormIntervalo.cs",
-              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormIntervalo.cs",
-              "RelativeToolTip": "estruturas_repeticao\\FormIntervalo.cs",
-              "ViewState": "AgIAAB8AAAAAAAAAAAAqwCsAAAAMAAAAAAAAAA==",
+              "Title": "FormVertical.cs",
+              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormVertical.cs",
+              "RelativeDocumentMoniker": "estruturas_repeticao\\FormVertical.cs",
+              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormVertical.cs*",
+              "RelativeToolTip": "estruturas_repeticao\\FormVertical.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwBcAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T23:12:35.871Z",
+              "WhenOpened": "2026-06-09T02:09:20.357Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "FormIntervalo.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormIntervalo.cs",
-              "RelativeDocumentMoniker": "estruturas_repeticao\\FormIntervalo.cs",
-              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormIntervalo.cs [Design]",
-              "RelativeToolTip": "estruturas_repeticao\\FormIntervalo.cs [Design]",
+              "Title": "FormVertical.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormVertical.cs",
+              "RelativeDocumentMoniker": "estruturas_repeticao\\FormVertical.cs",
+              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormVertical.cs [Design]*",
+              "RelativeToolTip": "estruturas_repeticao\\FormVertical.cs [Design]*",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-27T23:12:35.133Z",
+              "WhenOpened": "2026-06-08T23:57:26.908Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormListas.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormListas.cs",
+              "RelativeDocumentMoniker": "estruturas_repeticao\\FormListas.cs",
+              "ToolTip": "C:\\Users\\otavi\\OneDrive\\Desktop\\estruturas_repeticao\\estruturas_repeticao\\FormListas.cs [Design]*",
+              "RelativeToolTip": "estruturas_repeticao\\FormListas.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-08T23:58:20.197Z",
               "EditorCaption": " [Design]"
             }
           ]

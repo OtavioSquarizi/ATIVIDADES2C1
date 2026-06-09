@@ -38,6 +38,9 @@
             this.limiteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.intervaloToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sobreToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.emailToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.textoVerticalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.manipularListasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip2.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -82,7 +85,10 @@
             this.fibonacciToolStripMenuItem1,
             this.limiteToolStripMenuItem,
             this.intervaloToolStripMenuItem,
-            this.sobreToolStripMenuItem1});
+            this.sobreToolStripMenuItem1,
+            this.emailToolStripMenuItem,
+            this.textoVerticalToolStripMenuItem,
+            this.manipularListasToolStripMenuItem});
             this.exerciciosToolStripMenuItem.Name = "exerciciosToolStripMenuItem";
             this.exerciciosToolStripMenuItem.Size = new System.Drawing.Size(103, 29);
             this.exerciciosToolStripMenuItem.Text = "Exercicios";
@@ -90,44 +96,65 @@
             // fibonacciToolStripMenuItem
             // 
             this.fibonacciToolStripMenuItem.Name = "fibonacciToolStripMenuItem";
-            this.fibonacciToolStripMenuItem.Size = new System.Drawing.Size(193, 34);
+            this.fibonacciToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.fibonacciToolStripMenuItem.Text = "Tabuada";
             this.fibonacciToolStripMenuItem.Click += new System.EventHandler(this.fibonacciToolStripMenuItem_Click);
             // 
             // fatorialToolStripMenuItem
             // 
             this.fatorialToolStripMenuItem.Name = "fatorialToolStripMenuItem";
-            this.fatorialToolStripMenuItem.Size = new System.Drawing.Size(193, 34);
+            this.fatorialToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.fatorialToolStripMenuItem.Text = "Fatorial";
             this.fatorialToolStripMenuItem.Click += new System.EventHandler(this.fatorialToolStripMenuItem_Click);
             // 
             // fibonacciToolStripMenuItem1
             // 
             this.fibonacciToolStripMenuItem1.Name = "fibonacciToolStripMenuItem1";
-            this.fibonacciToolStripMenuItem1.Size = new System.Drawing.Size(193, 34);
+            this.fibonacciToolStripMenuItem1.Size = new System.Drawing.Size(270, 34);
             this.fibonacciToolStripMenuItem1.Text = "Fibonacci ";
             this.fibonacciToolStripMenuItem1.Click += new System.EventHandler(this.fibonacciToolStripMenuItem1_Click);
             // 
             // limiteToolStripMenuItem
             // 
             this.limiteToolStripMenuItem.Name = "limiteToolStripMenuItem";
-            this.limiteToolStripMenuItem.Size = new System.Drawing.Size(193, 34);
+            this.limiteToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.limiteToolStripMenuItem.Text = "Limite";
             this.limiteToolStripMenuItem.Click += new System.EventHandler(this.limiteToolStripMenuItem_Click);
             // 
             // intervaloToolStripMenuItem
             // 
             this.intervaloToolStripMenuItem.Name = "intervaloToolStripMenuItem";
-            this.intervaloToolStripMenuItem.Size = new System.Drawing.Size(193, 34);
+            this.intervaloToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
             this.intervaloToolStripMenuItem.Text = "Intervalo";
             this.intervaloToolStripMenuItem.Click += new System.EventHandler(this.intervaloToolStripMenuItem_Click);
             // 
             // sobreToolStripMenuItem1
             // 
             this.sobreToolStripMenuItem1.Name = "sobreToolStripMenuItem1";
-            this.sobreToolStripMenuItem1.Size = new System.Drawing.Size(193, 34);
+            this.sobreToolStripMenuItem1.Size = new System.Drawing.Size(270, 34);
             this.sobreToolStripMenuItem1.Text = "Sobre ";
             this.sobreToolStripMenuItem1.Click += new System.EventHandler(this.sobreToolStripMenuItem1_Click);
+            // 
+            // emailToolStripMenuItem
+            // 
+            this.emailToolStripMenuItem.Name = "emailToolStripMenuItem";
+            this.emailToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.emailToolStripMenuItem.Text = "E-mail";
+            this.emailToolStripMenuItem.Click += new System.EventHandler(this.emailToolStripMenuItem_Click);
+            // 
+            // textoVerticalToolStripMenuItem
+            // 
+            this.textoVerticalToolStripMenuItem.Name = "textoVerticalToolStripMenuItem";
+            this.textoVerticalToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.textoVerticalToolStripMenuItem.Text = "Texto Vertical";
+            this.textoVerticalToolStripMenuItem.Click += new System.EventHandler(this.textoVerticalToolStripMenuItem_Click);
+            // 
+            // manipularListasToolStripMenuItem
+            // 
+            this.manipularListasToolStripMenuItem.Name = "manipularListasToolStripMenuItem";
+            this.manipularListasToolStripMenuItem.Size = new System.Drawing.Size(270, 34);
+            this.manipularListasToolStripMenuItem.Text = "Manipular Listas";
+            this.manipularListasToolStripMenuItem.Click += new System.EventHandler(this.manipularListasToolStripMenuItem_Click);
             // 
             // Form1
             // 
@@ -161,6 +188,9 @@
         private System.Windows.Forms.ToolStripMenuItem limiteToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem intervaloToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sobreToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem emailToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem textoVerticalToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem manipularListasToolStripMenuItem;
     }
 }
 

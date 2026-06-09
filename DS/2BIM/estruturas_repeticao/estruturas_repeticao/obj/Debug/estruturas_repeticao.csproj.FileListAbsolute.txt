@@ -14,3 +14,6 @@ C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\De
 C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormIntervalo.resources
 C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormTabuada.resources
 C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormFatorial.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormEmail.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormListas.resources
+C:\Users\otavi\OneDrive\Desktop\estruturas_repeticao\estruturas_repeticao\obj\Debug\estruturas_repeticao.FormVertical.resources
