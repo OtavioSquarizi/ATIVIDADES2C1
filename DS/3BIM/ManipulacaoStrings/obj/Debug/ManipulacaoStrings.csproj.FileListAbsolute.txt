@@ -1,0 +1,11 @@
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\bin\Debug\ManipulacaoStrings.exe.config
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\bin\Debug\ManipulacaoStrings.exe
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\bin\Debug\ManipulacaoStrings.pdb
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.ManipulacaoStrings.resources
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.Properties.Resources.resources
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.csproj.GenerateResource.cache
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.exe
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.pdb
+C:\Users\otavi\OneDrive\Desktop\ManipulacaoStrings\obj\Debug\ManipulacaoStrings.exe.config
