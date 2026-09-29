@@ -1,0 +1,12 @@
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe.config
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\bin\Debug\JogoVelha.exe
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\bin\Debug\JogoVelha.pdb
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.AssemblyReference.cache
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.Properties.Resources.resources
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.GenerateResource.cache
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.pdb
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.exe.config
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.FormMenu.resources
+C:\Users\otavi\OneDrive\Desktop\JogoVelha\JogoVelha\obj\Debug\JogoVelha.FormJogo.resources
